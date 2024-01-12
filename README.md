@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1><pre>Hi, I'm Shalaka!</h1>
 
-<!--
-**jshalaka/jshalaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2><img width = 22px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/code.png"> AI Projects</h2>
 
-Here are some ideas to get you started:
+- <b>Implementing the scenario of the famous TV show "Monty Hall"</b>
+  - [Monty Hall](https://github.com/jshalaka/AI-Projects/tree/Monty-Hall)
+- <b>Recognizing object in an image</b>
+  - [Object Recognition](https://github.com/jshalaka/AI-Projects/tree/Object_Recognition)
+- <b>Finding the optimal route in the given map</b>
+  - [Route Planning](https://github.com/jshalaka/AI-Projects/tree/Route-Planning)
+- <b>Code for movie review sytem</b>
+  - [Sentiment Analysis](https://github.com/jshalaka/AI-Projects/tree/Sentiment-Analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+<h2> Connect with me</h2>
+
+[<img align="left" alt="Shalaka | Gmail" width="32px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/mail.svg" />][gmail]
+[<img align="left" alt="Shalaka | LinkedIn" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/shalaka-jaitapkar-59013469/
+[gmail]: jaitapkar.shalaka@gmail.com
