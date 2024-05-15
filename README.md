@@ -1,4 +1,4 @@
-<h1><pre><center>Hi, I'm Shalaka!</h1>
+<h1 align="center">Hi, I'm Shalaka!</h1>
 
 <h2><img width = 22px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/code.png"> AI Projects</h2>
 
