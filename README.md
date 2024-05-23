@@ -10,6 +10,10 @@
   - [Route Planning](https://github.com/jshalaka/AI-Projects/tree/Route-Planning)
 - <b>Code for movie review sytem</b>
   - [Sentiment Analysis](https://github.com/jshalaka/AI-Projects/tree/Sentiment-Analysis)
+- <b>Code for Image Classification</b>
+  - [CNN for Image Classification](https://github.com/jshalaka/Deep-Learning-Project/tree/CNN)
+- <b>Code for Image Generation</b>
+  - [GAN for Image Generation](https://github.com/jshalaka/Deep-Learning-Project/tree/GAN)
 
     
 <h2> Connect with me</h2>
