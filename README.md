@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shalaka!</h1>
 
-<h2><img width = 22px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/code.png"> AI Projects</h2>
+<h2><img width = 22px src = "https://github.com/jshalaka/jshalaka/blob/main/banner.png"> AI Projects</h2>
 
 - <b>Personalized University Selection</b>
   - [Dashboard](https://github.com/yashaharshika/Data-Visualization/tree/main)
