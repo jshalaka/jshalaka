@@ -2,6 +2,8 @@
 
 <h2><img width = 22px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/code.png"> AI Projects</h2>
 
+- <b>Personalized University Selection</b>
+  - [Dashboard](https://github.com/yashaharshika/Data-Visualization/tree/main)
 - <b>Implementing the scenario of the famous TV show "Monty Hall"</b>
   - [Monty Hall](https://github.com/jshalaka/AI-Projects/tree/Monty-Hall)
 - <b>Recognizing object in an image</b>
