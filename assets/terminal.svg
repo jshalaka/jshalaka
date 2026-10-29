@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="250" viewBox="0 0 720 250" role="img" aria-label="Animated terminal: TestScope AI test suite, 78 passed">
+  <style>
+    .win  { fill: #0d1117; stroke: #30363d; }
+    .bar  { fill: #161b22; }
+    .t    { font: 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #c9d1d9; white-space: pre; }
+    .p    { fill: #7ee787; }
+    .dim  { fill: #8b949e; }
+    .ok   { fill: #3fb950; font-weight: 700; }
+    .acc  { fill: #d2a8ff; }
+    .ttl  { font: 12px ui-monospace, Menlo, Consolas, monospace; fill: #8b949e; }
+    .l    { opacity: 0; }
+    .l1 { animation: a1 12s infinite; }
+    .l2 { animation: a2 12s infinite; }
+    .l3 { animation: a3 12s infinite; }
+    .l4 { animation: a4 12s infinite; }
+    .l5 { animation: a5 12s infinite; }
+    .l6 { animation: a6 12s infinite; }
+    @keyframes a1 { 0%,3%{opacity:0} 4%,94%{opacity:1} 96%,100%{opacity:0} }
+    @keyframes a2 { 0%,14%{opacity:0} 15%,94%{opacity:1} 96%,100%{opacity:0} }
+    @keyframes a3 { 0%,26%{opacity:0} 27%,94%{opacity:1} 96%,100%{opacity:0} }
+    @keyframes a4 { 0%,38%{opacity:0} 39%,94%{opacity:1} 96%,100%{opacity:0} }
+    @keyframes a5 { 0%,52%{opacity:0} 53%,94%{opacity:1} 96%,100%{opacity:0} }
+    @keyframes a6 { 0%,64%{opacity:0} 65%,94%{opacity:1} 96%,100%{opacity:0} }
+    .type1 { animation: w1 12s steps(22) infinite; }
+    .type2 { animation: w2 12s steps(40) infinite; }
+    @keyframes w1 { 0%,4%{width:0} 12%,94%{width:260px} 96%,100%{width:0} }
+    @keyframes w2 { 0%,53%{width:0} 62%,94%{width:380px} 96%,100%{width:0} }
+    .cur { fill: #c9d1d9; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <defs>
+    <clipPath id="c1"><rect class="type1" x="56" y="58" height="24" width="0"/></clipPath>
+    <clipPath id="c2"><rect class="type2" x="56" y="178" height="24" width="0"/></clipPath>
+  </defs>
+
+  <rect class="win" x="1" y="1" width="718" height="248" rx="10"/>
+  <path class="bar" d="M11 1h698a10 10 0 0 1 10 10v23H1V11A10 10 0 0 1 11 1z"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text class="ttl" x="360" y="21" text-anchor="middle">shalaka@london: ~/testscope-ai-uat-agent</text>
+
+  <g class="l l1">
+    <text class="t p" x="32" y="76">$</text>
+    <text class="t" x="56" y="76" clip-path="url(#c1)">python -m pytest -q</text>
+  </g>
+  <text class="t dim l l2" x="32" y="104">..............................................</text>
+  <text class="t dim l l3" x="32" y="128">................................</text>
+  <text class="t l l4" x="32" y="156"><tspan class="ok">78 passed</tspan><tspan class="dim">  ·  guardrails · coverage · traceability</tspan></text>
+
+  <g class="l l5">
+    <text class="t p" x="32" y="196">$</text>
+    <text class="t acc" x="56" y="196" clip-path="url(#c2)"># AI output is untrusted until validated</text>
+  </g>
+  <g class="l l6">
+    <text class="t p" x="32" y="230">$</text>
+    <rect class="cur" x="56" y="216" width="9" height="18"/>
+  </g>
+</svg>
